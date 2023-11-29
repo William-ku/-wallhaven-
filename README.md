@@ -10,12 +10,18 @@ Wallhaven Image Scraper 是一个使用 Python 编写的工具，用于从 Wallh
 - 将图片根据横屏和纵屏方向进行分类。
 - 将图片的 URL 保存到对应的文本文件中。
 
-## 安装
+## 使用教程
 
 1. **克隆项目到本地：**
 
 ```bash
 git clone https://github.com/your-username/wallhaven-image-scraper.git
+```
+2. **进入到文件夹：**
+```bash
 cd wallhaven-image-scraper
+```
+3. **运行文件：**
+```bash
 python getimg.py
 ```
